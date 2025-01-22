@@ -309,6 +309,7 @@ button:hover, .dtr-btn:hover, input[type="submit"]:hover, button[type="submit"]:
 /*----- 7 Footer -----*/
 /*----------------------------------------*/
 #dtr-footer-section { position: relative; padding: 0; border-style: solid; border-width: 0; padding: 100px 0; background-color: var(--dtr-bg-primary); color: var(--dtr-white);  }
+#dtr-footer-section:hover{}
 .dtr-copyright { position: relative; padding: 100px 0 0 0; border-style: solid; border-width: 0; }
 #dtr-footer-section a, #dtr-footer-section h1, #dtr-footer-section h2, #dtr-footer-section h3, #dtr-footer-section h4, #dtr-footer-section h5, #dtr-footer-section h6 { color: var(--dtr-text-color-secondary); }
 #dtr-footer-section a:hover { color: var(--dtr-text-color-secondary-light); }
